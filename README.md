@@ -1,15 +1,15 @@
 SPDX-FileCopyrightText: 2023 Sylvain & Biquette <sylvain441@proton.me>
 SPDX-License-Identifier: CERN-OHL-S-2.0+
 
-# ~AirZome~
+# AirZome
 
 AirZome is the first prototype of "Organic Home".
 It's future-proof, extremely lightweight, modular, and transportable.
 Read more at https://sylvainbiquette.xyz/tag/airzome/ (in french)
 
 You'll find in this repository 2 .skp 3D files (Sketchup)
-- AIRZOME_8_480 : 3D model of the very first prototype of AirZome (8 faces - 4.80 meters wide)
-- AIRZOME_8_480_BUILDING_PROCESS : this file helps you visualize the main building phases of AirZome's blocks
+- `AIRZOME_8_480-version.skp` : 3D model of the very first prototype of AirZome (8 faces - 4.80 meters wide)
+- `AIRZOME_8_480_BUILDING_PROCESS-version.skp` : this file helps you visualize the main building phases of AirZome's blocks
 
     You may use the free version of Sketchup to browse the files.
 
